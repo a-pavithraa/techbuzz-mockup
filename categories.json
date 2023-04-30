@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Java",
+    "slug": "java",
+    "description": "Java and JVM related technology news, blogs, discussions etc",
+    "image": "java.png",
+    "displayOrder": 1,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 6,
+    "name": "WebDev",
+    "slug": "webdev",
+    "description": "Web Development using HTML, JS, CSS and its rich ecosystem of frameworks and libraries",
+    "image": "webdev.png",
+    "displayOrder": 2,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 11,
+    "name": "Go",
+    "slug": "go",
+    "description": "The Go Programming Language",
+    "image": "go.png",
+    "displayOrder": 3,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 16,
+    "name": "Python",
+    "slug": "python",
+    "description": "Python Programming Language",
+    "image": "python.png",
+    "displayOrder": 4,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 21,
+    "name": "NodeJS",
+    "slug": "nodejs",
+    "description": "NodeJS application development",
+    "image": "nodejs.png",
+    "displayOrder": 5,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 26,
+    "name": "DevOps",
+    "slug": "devops",
+    "description": "DevOps culture, practices, techniques",
+    "image": "devops.png",
+    "displayOrder": 6,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 31,
+    "name": "Testing",
+    "slug": "testing",
+    "description": "Software Testing Techniques and technologies",
+    "image": "testing.png",
+    "displayOrder": 7,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 36,
+    "name": "Career",
+    "slug": "career",
+    "description": "Career Guidance and Support",
+    "image": "career.png",
+    "displayOrder": 8,
+    "createdAt": null,
+    "updatedAt": null
+  },
+  {
+    "id": 41,
+    "name": "General",
+    "slug": "general",
+    "description": "Anything related to Software Development",
+    "image": "general.png",
+    "displayOrder": 9,
+    "createdAt": null,
+    "updatedAt": null
+  }
+]
